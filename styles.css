@@ -1,0 +1,47 @@
+ body{
+           background-color:#688a8f;
+           color:white;
+           
+}
+
+      header{
+             background-color:#257a73;
+             color:white;
+             overflow:hidden;
+            width:80%;
+            margin-left:auto;
+             margin-right:auto;
+             text-align:center;
+}
+      hgroup{
+             width:70%;
+             float:left;
+}
+      
+    div.headline{
+             width:80%;
+             margin-left:auto;
+             margin-right:auto;
+             
+}
+     nav ul{
+            list-style-type:none;
+
+}
+
+     section{
+            width:80%;
+            margin-left:auto;
+            margin-right:auto;
+             
+}
+
+     div.allphotos{
+            width:80%;
+            margin-left:auto;
+            margin-right:auto;
+             
+}
+      background-image:url("file:///C:/Users/venka/Downloads/pexels-daniel-absi-952670.jpg")
+
+     
